@@ -1,4 +1,5 @@
-# polymorph (initially ucb-mlai-capstone: UC Berkeley ML-AI Capstone project)
+# Polymorph
+(initialy this was the ucb-mlai-capstone: UC Berkeley ML-AI Capstone project)
 
 ## Problem:
 
