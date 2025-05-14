@@ -122,11 +122,12 @@ Basic RAG workflows: !["rag-workflow-per-savio-saldanha.png"](<images/RAG-diagra
   - AI-Driven Full DevOps Lifecycle: How AI is shaping end-to-end management in software development.
 
 
-NOTES:
-LLM Comparison Links:
+## NOTES:
+### LLM Comparison Links:
 - 2024 Comparison of Open-Source Vs Closed-Source LLMs (https://blog.spheron.network/choosing-the-right-llm-2024-comparison-of-open-source-vs-closed-source-llms)
 - Open Source vs Closed Source LLMs. Pros and Cons - Springs (https://springsapps.com/knowledge/open-source-vs-closed-source-llms-pros-and-cons#:~:text=We%20have%20already%20got%20some,detail%20some%20of%20these%20LLMs.)
-training courses:
+
+### training courses:
 - Machine Learning  |  Google for Developers (https://developers.google.com/machine-learning/crash-course)
 - Introduction to Large Language Models  |  Machine Learning  |  Google for Developers (https://developers.google.com/machine-learning/resources/intro-llms)
 
